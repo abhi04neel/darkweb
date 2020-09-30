@@ -1,5 +1,5 @@
-#!/usr/bin/env python
-import os, sys
+#!/usr/bin/env python/This is beuatiful website
+import os, sys,py
 
 if __name__ == "__main__":
     os.environ.setdefault("DJANGO_SETTINGS_MODULE", "darkweb.settings")
